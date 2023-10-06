@@ -1,34 +1,25 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Deacon 👋
 
 ## About Me
 
-I'm a passionate [Your Role/Field], enthusiastic about [Your Interests or Specialization]. I love to explore new technologies and build cool projects. My goal is to [Your Career Goal or Mission].
+I'm a passionate Software Engineer, enthusiastic about music as I'm in a band in my free time and I enjoy gaming aswell. I love to explore new technologies and build cool projects. My goal is to learn new skills and become the best developer that I can.
 
 ## Skills
 
-- 💻 Programming Languages: [List Languages, e.g., JavaScript, Python]
-- 🚀 Frameworks and Libraries: [List Frameworks and Libraries, e.g., React, Node.js]
-- 🌐 Web Technologies: [List Web Technologies, e.g., HTML, CSS]
-- 📊 Databases: [List Databases, e.g., MongoDB, PostgreSQL]
-- ⚙️ Tools and DevOps: [List Tools, e.g., Git, Docker]
-- 🧰 Other: [List Any Other Relevant Skills]
-
-## Portfolio
-
-Check out some of my highlighted projects:
-
-- [Project 1 Name](Project 1 Repository Link) - Short description.
-- [Project 2 Name](Project 2 Repository Link) - Short description.
-- [Project 3 Name](Project 3 Repository Link) - Short description.
+- 💻 Programming Languages: JS, TS, C#, PHP
+- 🚀 Frameworks and Libraries: React.js, Node.js, Next.js, Jquery, Tailwind.css
+- 🌐 Web Technologies: HTML, CSS, SCSS, PHP 
+- 📊 Databases: MongoDB, MySQL
+- ⚙️ Tools and DevOps: Git, Docker
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JokerZ75&show_icons=true&theme=radical)
 
 ## Connect with Me
 
 Let's connect and collaborate on exciting projects:
 
-- 📧 Email: [Your Email Address](mailto:youremail@example.com)
+- 📧 Email: [Your Email Address](mailto:dhughes1704@icloud.com)
 - 🌐 Website: [Your Website](https://yourwebsite.com)
 -
