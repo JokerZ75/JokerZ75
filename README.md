@@ -20,6 +20,6 @@ I'm a passionate Software Engineer, enthusiastic about music as I'm in a band in
 
 Let's connect and collaborate on exciting projects:
 
-- 📧 Email: [Your Email Address](mailto:dhughes1704@icloud.com)
-- 🌐 Website: [Your Website](https://yourwebsite.com)
+- 📧 Email: [Email me](mailto:dhughes1704@icloud.com)
+- 🌐 Website: [My Portfolio](https://portfolio.dhughes.dev/)
 -
