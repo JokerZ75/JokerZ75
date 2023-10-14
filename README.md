@@ -20,5 +20,5 @@ I'm a passionate Software Engineer, enthusiastic about music as I'm in a band in
 
 Let's connect and collaborate on exciting projects:
 
-- 📧 Email: [Email me](mailto:dhughes1704@icloud.com)
+- 📧 Email: [Email me](mailto:deac.dev@gmail.com)
 - 🌐 Website: [My Portfolio](https://portfolio.dhughes.dev/)
